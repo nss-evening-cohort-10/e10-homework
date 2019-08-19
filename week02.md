@@ -11,3 +11,4 @@
   * Final result for a repo should have everything merged into master
 
 2.  [Flexbox Froggy](https://flexboxfroggy.com/) - yep you get to play a game for your HW!
+3.  (optional) [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)  - great visual way of learning about git branching

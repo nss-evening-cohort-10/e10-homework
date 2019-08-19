@@ -1,6 +1,6 @@
 # HW Week 25
-### Study Group Assignment:
+## Study Group Assignment:
 1.  ??
 
-### Individual Assignment(s):
+## Individual Assignment(s):
 1.  ??
