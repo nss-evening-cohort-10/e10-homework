@@ -5,7 +5,7 @@
 | [Week 1](./week01.md) | August 12 - 18, 2019 | Getting Started |
 | [Week 2](./week02.md) | August 19 - 25 2019 | Github |
 | [Week 3](./week03.md) | August 26 - September 1, 2019 | JS |
-| [Week 4](./week04.md) | September 2 - 8, 2019 |  |
+| [Week 4](./week04.md) | September 2 - 8, 2019 | Bootstrap |
 | [Week 5](./week05.md) | September 9 - 15, 2019 |  |
 | [Week 6](./week06.md) | September 16 - 22, 2019 |  |
 | [Week 7](./week07.md) | September 23 - 29, 2019 |  |
