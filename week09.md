@@ -6,3 +6,5 @@
 
 ## Individual Assignment(s):
 1.  READMEs - make sure all your assignments have a completed README.md file see [THIS](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/markdown.md) resource to know what completed means.
+
+2.  Open Assignments - we have a group project starting next week.  It would be best if you are done with EVERY assigned assignment before then.  Remember - its not complete if it doesn't have a readme.
