@@ -1,6 +1,6 @@
 # HW Week 16
 ## Study Group Assignment:
-1.  HOLIDAY - no official studygroup requried
+1.  HOLIDAY - no official studygroup required
 
 ## Individual Assignment(s):
 1.  Continue to work on your nutshell part 2 group project
