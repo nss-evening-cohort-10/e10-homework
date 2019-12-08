@@ -8,7 +8,7 @@
 
 2.  Finish Personal Bio Site:
   *  [Personal Bio Site: Part 3](https://github.com/nss-nightclass-projects/personal-bio-site-instructions/blob/master/personal-bio-site-03.md)
-  *  [Personal Bio Site: Part 4](https://github.com/nss-nightclass-projects/personal-bio-site-instructions/blob/master/personal-bio-site-04.md) - finish your personal site with 4 deployed projects
+  *  [Personal Bio Site: Part 4](https://github.com/nss-nightclass-projects/personal-bio-site-instructions/blob/master/personal-bio-site-04.md)
   
 3.  Finish ALL react assignments:
   * [Shark Attack](https://github.com/nss-nightclass-projects/exercise-vault/blob/master/REACT_shark_attack.md)
