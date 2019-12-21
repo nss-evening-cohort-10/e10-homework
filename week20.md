@@ -4,7 +4,7 @@
 1.  NONE (XMAS Break)
 
 ## Individual Assignment(s):
-1. [Capstone Proposal]() - this needs to be submitted by January 6, 2020 at the ABSOLUTE latest. Please do it WAY earlier.
+1. [Capstone Proposal](https://github.com/nss-nightclass-projects/capstone-central/blob/master/02_initial-proposal.md) - this needs to be submitted by January 6, 2020 at the ABSOLUTE latest. Please do it WAY earlier.
 
 2.  Finish Personal Bio Site:
   *  [Personal Bio Site: Part 3](https://github.com/nss-nightclass-projects/personal-bio-site-instructions/blob/master/personal-bio-site-03.md)
