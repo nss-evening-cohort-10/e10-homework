@@ -15,16 +15,16 @@
 | [Week 11](./week11.md) | October 21 - 27, 2019 | ERDs |
 | [Week 12](./week12.md) | October 28 - November 3, 2019 | Promises |
 | [Week 13](./week13.md) | November 4 - 10, 2019 | Firebase CRUD |
-| [Week 14](./week14.md) | November 11 - 17, 2019 | Group Project |
-| [Week 15](./week15.md) | November 18 - 24, 2019 |  |
-| [Week 16](./week16.md) | November 25 - December 1, 2019 |  |
-| [Week 17](./week17.md) | December 2 - 8, 2019 |  |
-| [Week 18](./week18.md) | December 9 - 15, 2019 |  |
-| [Week 19](./week19.md) | December 16 - 22, 2019 |  |
-| [Week 20](./week20.md) | December 23 - 29, 2019 |  |
-| [Week 21](./week20.md) | December 30, 2019 - January 5, 2020 |  |
-| [Week 22](./week21.md) | January 6 - 12, 2020 |  |
-| [Week 23](./week22.md) | January 13 - 19, 2020 |  |
+| [Week 14](./week14.md) | November 11 - 17, 2019 | Nutshell Group Project |
+| [Week 15](./week15.md) | November 18 - 24, 2019 | Nutshell Part 2 |
+| [Week 16](./week16.md) | November 25 - December 1, 2019 | Nutshell Part 2 / Thanksgiving |
+| [Week 17](./week17.md) | December 2 - 8, 2019 | Nutshell Demo / Intro to React |
+| [Week 18](./week18.md) | December 9 - 15, 2019 | React State and Props |
+| [Week 19](./week19.md) | December 16 - 22, 2019 | React and Firebase CRUD |
+| [Week 20](./week20.md) | December 23 - 29, 2019 | WINTER BREAK |
+| [Week 21](./week20.md) | December 30, 2019 - January 5, 2020 | WINTER BREAK |
+| [Week 22](./week21.md) | January 6 - 12, 2020 | React Routing |
+| [Week 23](./week22.md) | January 13 - 19, 2020 | React Routing + CRUD |
 | [Week 24](./week23.md) | January 20 - 26, 2020 | CAPSTONE |
 | [Week 25](./week24.md) | January 27 - February 2, 2020 | CAPSTONE |
 | [Week 26](./week24.md) | January 23 - 9, 2020 | CAPSTONE |
